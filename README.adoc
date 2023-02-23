@@ -3,7 +3,7 @@ Documentez votre projet: remplacez le contenu de ce fichier README.doc par les i
 - mvn clean
 - mvn compile
 - mvn javadoc:javadoc
+- mvn package
 - java -jar target/tp_qualite-1.0.jar
-- 
 
 
