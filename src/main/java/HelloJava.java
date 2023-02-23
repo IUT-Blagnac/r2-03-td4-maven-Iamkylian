@@ -13,7 +13,7 @@ class HelloJava {
 		System.out.println("Hello Blagnac");
 	}
 
-	/**
+	/** 
 	 * 
 	 */
 	public void afficherCancan() {
